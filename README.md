@@ -27,12 +27,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Orshitha16/Leetcode/tree/master/0268-missing-number) |
 | [0792-binary-search](https://github.com/Orshitha16/Leetcode/tree/master/0792-binary-search) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/Orshitha16/Leetcode/tree/master/2876-number-of-employees-who-met-the-target) |
+| [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Orshitha16/Leetcode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Orshitha16/Leetcode/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/Orshitha16/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Orshitha16/Leetcode/tree/master/0268-missing-number) |
+| [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Orshitha16/Leetcode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -63,4 +65,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Orshitha16/Leetcode/tree/master/0344-reverse-string) |
 | [0551-student-attendance-record-i](https://github.com/Orshitha16/Leetcode/tree/master/0551-student-attendance-record-i) |
 | [0742-to-lower-case](https://github.com/Orshitha16/Leetcode/tree/master/0742-to-lower-case) |
+## Counting
+|  |
+| ------- |
+| [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Orshitha16/Leetcode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 <!---LeetCode Topics End-->
