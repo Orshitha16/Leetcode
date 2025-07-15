@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2383-add-two-integers](https://github.com/Orshitha16/Leetcode/tree/master/2383-add-two-integers) |
 | [2630-alternating-digit-sum](https://github.com/Orshitha16/Leetcode/tree/master/2630-alternating-digit-sum) |
 | [2752-sum-multiples](https://github.com/Orshitha16/Leetcode/tree/master/2752-sum-multiples) |
+| [3371-harshad-number](https://github.com/Orshitha16/Leetcode/tree/master/3371-harshad-number) |
 ## Binary Search
 |  |
 | ------- |
