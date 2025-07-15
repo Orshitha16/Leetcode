@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/Orshitha16/Leetcode/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [2238-a-number-after-a-double-reversal](https://github.com/Orshitha16/Leetcode/tree/master/2238-a-number-after-a-double-reversal) |
 | [2383-add-two-integers](https://github.com/Orshitha16/Leetcode/tree/master/2383-add-two-integers) |
+| [2491-smallest-even-multiple](https://github.com/Orshitha16/Leetcode/tree/master/2491-smallest-even-multiple) |
 | [2556-convert-the-temperature](https://github.com/Orshitha16/Leetcode/tree/master/2556-convert-the-temperature) |
 | [2630-alternating-digit-sum](https://github.com/Orshitha16/Leetcode/tree/master/2630-alternating-digit-sum) |
 | [2752-sum-multiples](https://github.com/Orshitha16/Leetcode/tree/master/2752-sum-multiples) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Orshitha16/Leetcode/tree/master/0258-add-digits) |
+| [2491-smallest-even-multiple](https://github.com/Orshitha16/Leetcode/tree/master/2491-smallest-even-multiple) |
 ## Sorting
 |  |
 | ------- |
