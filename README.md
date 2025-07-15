@@ -61,5 +61,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/Orshitha16/Leetcode/tree/master/0344-reverse-string) |
+| [0551-student-attendance-record-i](https://github.com/Orshitha16/Leetcode/tree/master/0551-student-attendance-record-i) |
 | [0742-to-lower-case](https://github.com/Orshitha16/Leetcode/tree/master/0742-to-lower-case) |
 <!---LeetCode Topics End-->
