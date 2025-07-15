@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Orshitha16/Leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Orshitha16/Leetcode/tree/master/0268-missing-number) |
 | [0507-perfect-number](https://github.com/Orshitha16/Leetcode/tree/master/0507-perfect-number) |
+| [1630-count-odd-numbers-in-an-interval-range](https://github.com/Orshitha16/Leetcode/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [2630-alternating-digit-sum](https://github.com/Orshitha16/Leetcode/tree/master/2630-alternating-digit-sum) |
 | [2752-sum-multiples](https://github.com/Orshitha16/Leetcode/tree/master/2752-sum-multiples) |
 ## Binary Search
