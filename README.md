@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Orshitha16/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Orshitha16/Leetcode/tree/master/0268-missing-number) |
 | [0792-binary-search](https://github.com/Orshitha16/Leetcode/tree/master/0792-binary-search) |
+| [1019-squares-of-a-sorted-array](https://github.com/Orshitha16/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/Orshitha16/Leetcode/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Orshitha16/Leetcode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 ## Hash Table
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Orshitha16/Leetcode/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/Orshitha16/Leetcode/tree/master/0075-sort-colors) |
 | [0344-reverse-string](https://github.com/Orshitha16/Leetcode/tree/master/0344-reverse-string) |
+| [1019-squares-of-a-sorted-array](https://github.com/Orshitha16/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Orshitha16/Leetcode/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/Orshitha16/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Orshitha16/Leetcode/tree/master/0268-missing-number) |
+| [1019-squares-of-a-sorted-array](https://github.com/Orshitha16/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 ## String
 |  |
 | ------- |
