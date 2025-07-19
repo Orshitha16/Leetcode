@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/Orshitha16/Leetcode/tree/master/1013-fibonacci-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Orshitha16/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Orshitha16/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [1585-the-kth-factor-of-n](https://github.com/Orshitha16/Leetcode/tree/master/1585-the-kth-factor-of-n) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/Orshitha16/Leetcode/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [1635-number-of-good-pairs](https://github.com/Orshitha16/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [2083-three-divisors](https://github.com/Orshitha16/Leetcode/tree/master/2083-three-divisors) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Orshitha16/Leetcode/tree/master/0258-add-digits) |
+| [1585-the-kth-factor-of-n](https://github.com/Orshitha16/Leetcode/tree/master/1585-the-kth-factor-of-n) |
 | [2083-three-divisors](https://github.com/Orshitha16/Leetcode/tree/master/2083-three-divisors) |
 | [2491-smallest-even-multiple](https://github.com/Orshitha16/Leetcode/tree/master/2491-smallest-even-multiple) |
 | [2507-number-of-common-factors](https://github.com/Orshitha16/Leetcode/tree/master/2507-number-of-common-factors) |
