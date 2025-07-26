@@ -1,8 +1,9 @@
 int commonFactors(int a, int b) {
-    int i,c;
-    c=0;
+    int i;
+    int c=0;
     for(i=1;i<=1000;i++)
-    if(a%i==0 && b%i==0)
-    c++;
-    return c;
+     if(a%i==0 && b%i==0)
+      c++;
+
+      return c;
 }
