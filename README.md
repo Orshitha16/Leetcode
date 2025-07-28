@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Orshitha16/Leetcode/tree/master/0344-reverse-string) |
 | [0551-student-attendance-record-i](https://github.com/Orshitha16/Leetcode/tree/master/0551-student-attendance-record-i) |
 | [0742-to-lower-case](https://github.com/Orshitha16/Leetcode/tree/master/0742-to-lower-case) |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/Orshitha16/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/Orshitha16/Leetcode/tree/master/1823-determine-if-string-halves-are-alike) |
 ## Counting
 |  |
