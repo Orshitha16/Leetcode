@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Orshitha16/Leetcode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0792-binary-search](https://github.com/Orshitha16/Leetcode/tree/master/0792-binary-search) |
 | [0932-monotonic-array](https://github.com/Orshitha16/Leetcode/tree/master/0932-monotonic-array) |
+| [0958-sort-array-by-parity-ii](https://github.com/Orshitha16/Leetcode/tree/master/0958-sort-array-by-parity-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/Orshitha16/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1137-height-checker](https://github.com/Orshitha16/Leetcode/tree/master/1137-height-checker) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Orshitha16/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Orshitha16/Leetcode/tree/master/0075-sort-colors) |
 | [0202-happy-number](https://github.com/Orshitha16/Leetcode/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/Orshitha16/Leetcode/tree/master/0344-reverse-string) |
+| [0958-sort-array-by-parity-ii](https://github.com/Orshitha16/Leetcode/tree/master/0958-sort-array-by-parity-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/Orshitha16/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Orshitha16/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Bit Manipulation
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Orshitha16/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Orshitha16/Leetcode/tree/master/0268-missing-number) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Orshitha16/Leetcode/tree/master/0748-largest-number-at-least-twice-of-others) |
+| [0958-sort-array-by-parity-ii](https://github.com/Orshitha16/Leetcode/tree/master/0958-sort-array-by-parity-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/Orshitha16/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1137-height-checker](https://github.com/Orshitha16/Leetcode/tree/master/1137-height-checker) |
 ## String
