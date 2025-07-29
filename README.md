@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/Orshitha16/Leetcode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Orshitha16/Leetcode/tree/master/0268-missing-number) |
 | [0792-binary-search](https://github.com/Orshitha16/Leetcode/tree/master/0792-binary-search) |
+| [0932-monotonic-array](https://github.com/Orshitha16/Leetcode/tree/master/0932-monotonic-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/Orshitha16/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1137-height-checker](https://github.com/Orshitha16/Leetcode/tree/master/1137-height-checker) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Orshitha16/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
