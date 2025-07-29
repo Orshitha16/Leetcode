@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1950-sign-of-the-product-of-an-array](https://github.com/Orshitha16/Leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Orshitha16/Leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Orshitha16/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2442-number-of-arithmetic-triplets](https://github.com/Orshitha16/Leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Orshitha16/Leetcode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/Orshitha16/Leetcode/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Orshitha16/Leetcode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Orshitha16/Leetcode/tree/master/0268-missing-number) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Orshitha16/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/Orshitha16/Leetcode/tree/master/1635-number-of-good-pairs) |
+| [2442-number-of-arithmetic-triplets](https://github.com/Orshitha16/Leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Orshitha16/Leetcode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Orshitha16/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Two Pointers
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0958-sort-array-by-parity-ii](https://github.com/Orshitha16/Leetcode/tree/master/0958-sort-array-by-parity-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/Orshitha16/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Orshitha16/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2442-number-of-arithmetic-triplets](https://github.com/Orshitha16/Leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -187,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2083-three-divisors](https://github.com/Orshitha16/Leetcode/tree/master/2083-three-divisors) |
+| [2442-number-of-arithmetic-triplets](https://github.com/Orshitha16/Leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2507-number-of-common-factors](https://github.com/Orshitha16/Leetcode/tree/master/2507-number-of-common-factors) |
 ## Counting Sort
 |  |
