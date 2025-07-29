@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/Orshitha16/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1137-height-checker](https://github.com/Orshitha16/Leetcode/tree/master/1137-height-checker) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Orshitha16/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Orshitha16/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/Orshitha16/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1791-richest-customer-wealth](https://github.com/Orshitha16/Leetcode/tree/master/1791-richest-customer-wealth) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Orshitha16/Leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Orshitha16/Leetcode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Orshitha16/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Orshitha16/Leetcode/tree/master/0268-missing-number) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Orshitha16/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/Orshitha16/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Orshitha16/Leetcode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Orshitha16/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0958-sort-array-by-parity-ii](https://github.com/Orshitha16/Leetcode/tree/master/0958-sort-array-by-parity-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/Orshitha16/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1137-height-checker](https://github.com/Orshitha16/Leetcode/tree/master/1137-height-checker) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Orshitha16/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## String
 |  |
 | ------- |
@@ -187,4 +190,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1137-height-checker](https://github.com/Orshitha16/Leetcode/tree/master/1137-height-checker) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Orshitha16/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
