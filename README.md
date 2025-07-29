@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Orshitha16/Leetcode/tree/master/0217-contains-duplicate) |
 | [0260-single-number-iii](https://github.com/Orshitha16/Leetcode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Orshitha16/Leetcode/tree/master/0268-missing-number) |
+| [0748-largest-number-at-least-twice-of-others](https://github.com/Orshitha16/Leetcode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0792-binary-search](https://github.com/Orshitha16/Leetcode/tree/master/0792-binary-search) |
 | [0932-monotonic-array](https://github.com/Orshitha16/Leetcode/tree/master/0932-monotonic-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/Orshitha16/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Orshitha16/Leetcode/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/Orshitha16/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Orshitha16/Leetcode/tree/master/0268-missing-number) |
+| [0748-largest-number-at-least-twice-of-others](https://github.com/Orshitha16/Leetcode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [1019-squares-of-a-sorted-array](https://github.com/Orshitha16/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1137-height-checker](https://github.com/Orshitha16/Leetcode/tree/master/1137-height-checker) |
 ## String
