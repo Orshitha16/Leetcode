@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2271-rearrange-array-elements-by-sign](https://github.com/Orshitha16/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Orshitha16/Leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Orshitha16/Leetcode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
+| [2844-sum-of-squares-of-special-elements](https://github.com/Orshitha16/Leetcode/tree/master/2844-sum-of-squares-of-special-elements) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/Orshitha16/Leetcode/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Orshitha16/Leetcode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Orshitha16/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2083-three-divisors](https://github.com/Orshitha16/Leetcode/tree/master/2083-three-divisors) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Orshitha16/Leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2507-number-of-common-factors](https://github.com/Orshitha16/Leetcode/tree/master/2507-number-of-common-factors) |
+| [2844-sum-of-squares-of-special-elements](https://github.com/Orshitha16/Leetcode/tree/master/2844-sum-of-squares-of-special-elements) |
 ## Counting Sort
 |  |
 | ------- |
