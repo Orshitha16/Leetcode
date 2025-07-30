@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1791-richest-customer-wealth](https://github.com/Orshitha16/Leetcode/tree/master/1791-richest-customer-wealth) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Orshitha16/Leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Orshitha16/Leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2181-smallest-index-with-equal-value](https://github.com/Orshitha16/Leetcode/tree/master/2181-smallest-index-with-equal-value) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Orshitha16/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Orshitha16/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/Orshitha16/Leetcode/tree/master/2283-sort-even-and-odd-indices-independently) |
