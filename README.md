@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1950-sign-of-the-product-of-an-array](https://github.com/Orshitha16/Leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Orshitha16/Leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Orshitha16/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2283-sort-even-and-odd-indices-independently](https://github.com/Orshitha16/Leetcode/tree/master/2283-sort-even-and-odd-indices-independently) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Orshitha16/Leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Orshitha16/Leetcode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/Orshitha16/Leetcode/tree/master/2844-sum-of-squares-of-special-elements) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-height-checker](https://github.com/Orshitha16/Leetcode/tree/master/1137-height-checker) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Orshitha16/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Orshitha16/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [2283-sort-even-and-odd-indices-independently](https://github.com/Orshitha16/Leetcode/tree/master/2283-sort-even-and-odd-indices-independently) |
 ## String
 |  |
 | ------- |
