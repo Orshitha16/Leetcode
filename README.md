@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Orshitha16/Leetcode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Orshitha16/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Orshitha16/Leetcode/tree/master/0268-missing-number) |
+| [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/Orshitha16/Leetcode/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Orshitha16/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/Orshitha16/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Orshitha16/Leetcode/tree/master/2442-number-of-arithmetic-triplets) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/Orshitha16/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [0742-to-lower-case](https://github.com/Orshitha16/Leetcode/tree/master/0742-to-lower-case) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Orshitha16/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
+| [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/Orshitha16/Leetcode/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/Orshitha16/Leetcode/tree/master/1823-determine-if-string-halves-are-alike) |
 ## Counting
 |  |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/Orshitha16/Leetcode/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
 | [2083-three-divisors](https://github.com/Orshitha16/Leetcode/tree/master/2083-three-divisors) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Orshitha16/Leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2507-number-of-common-factors](https://github.com/Orshitha16/Leetcode/tree/master/2507-number-of-common-factors) |
