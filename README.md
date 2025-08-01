@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/Orshitha16/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [0507-perfect-number](https://github.com/Orshitha16/Leetcode/tree/master/0507-perfect-number) |
 | [0728-self-dividing-numbers](https://github.com/Orshitha16/Leetcode/tree/master/0728-self-dividing-numbers) |
+| [0909-stone-game](https://github.com/Orshitha16/Leetcode/tree/master/0909-stone-game) |
 | [1013-fibonacci-number](https://github.com/Orshitha16/Leetcode/tree/master/1013-fibonacci-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Orshitha16/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Orshitha16/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Orshitha16/Leetcode/tree/master/0268-missing-number) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Orshitha16/Leetcode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0792-binary-search](https://github.com/Orshitha16/Leetcode/tree/master/0792-binary-search) |
+| [0909-stone-game](https://github.com/Orshitha16/Leetcode/tree/master/0909-stone-game) |
 | [0932-monotonic-array](https://github.com/Orshitha16/Leetcode/tree/master/0932-monotonic-array) |
 | [0958-sort-array-by-parity-ii](https://github.com/Orshitha16/Leetcode/tree/master/0958-sort-array-by-parity-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/Orshitha16/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0909-stone-game](https://github.com/Orshitha16/Leetcode/tree/master/0909-stone-game) |
 | [1013-fibonacci-number](https://github.com/Orshitha16/Leetcode/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
@@ -211,4 +214,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Orshitha16/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+## Game Theory
+|  |
+| ------- |
+| [0909-stone-game](https://github.com/Orshitha16/Leetcode/tree/master/0909-stone-game) |
 <!---LeetCode Topics End-->
