@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/Orshitha16/Leetcode/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/Orshitha16/Leetcode/tree/master/1823-determine-if-string-halves-are-alike) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/Orshitha16/Leetcode/tree/master/3408-count-the-number-of-special-characters-i) |
+| [3636-check-balanced-string](https://github.com/Orshitha16/Leetcode/tree/master/3636-check-balanced-string) |
 ## Counting
 |  |
 | ------- |
