@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Orshitha16/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/Orshitha16/Leetcode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/Orshitha16/Leetcode/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
+| [3918-check-divisibility-by-digit-sum-and-product](https://github.com/Orshitha16/Leetcode/tree/master/3918-check-divisibility-by-digit-sum-and-product) |
 ## Binary Search
 |  |
 | ------- |
