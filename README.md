@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Orshitha16/Leetcode/tree/master/0001-two-sum) |
 | [0202-happy-number](https://github.com/Orshitha16/Leetcode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Orshitha16/Leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Orshitha16/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Orshitha16/Leetcode/tree/master/0268-missing-number) |
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/Orshitha16/Leetcode/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Orshitha16/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/Orshitha16/Leetcode/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/Orshitha16/Leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Orshitha16/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Orshitha16/Leetcode/tree/master/0268-missing-number) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Orshitha16/Leetcode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0958-sort-array-by-parity-ii](https://github.com/Orshitha16/Leetcode/tree/master/0958-sort-array-by-parity-ii) |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/Orshitha16/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Orshitha16/Leetcode/tree/master/0344-reverse-string) |
 | [0551-student-attendance-record-i](https://github.com/Orshitha16/Leetcode/tree/master/0551-student-attendance-record-i) |
 | [0657-robot-return-to-origin](https://github.com/Orshitha16/Leetcode/tree/master/0657-robot-return-to-origin) |
