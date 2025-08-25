@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Orshitha16/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Orshitha16/Leetcode/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/Orshitha16/Leetcode/tree/master/0075-sort-colors) |
+| [0151-reverse-words-in-a-string](https://github.com/Orshitha16/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0202-happy-number](https://github.com/Orshitha16/Leetcode/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/Orshitha16/Leetcode/tree/master/0344-reverse-string) |
 | [0958-sort-array-by-parity-ii](https://github.com/Orshitha16/Leetcode/tree/master/0958-sort-array-by-parity-ii) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/Orshitha16/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Orshitha16/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Orshitha16/Leetcode/tree/master/0344-reverse-string) |
 | [0551-student-attendance-record-i](https://github.com/Orshitha16/Leetcode/tree/master/0551-student-attendance-record-i) |
