@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Orshitha16/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Orshitha16/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Orshitha16/Leetcode/tree/master/0344-reverse-string) |
+| [0394-decode-string](https://github.com/Orshitha16/Leetcode/tree/master/0394-decode-string) |
 | [0551-student-attendance-record-i](https://github.com/Orshitha16/Leetcode/tree/master/0551-student-attendance-record-i) |
 | [0657-robot-return-to-origin](https://github.com/Orshitha16/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [0742-to-lower-case](https://github.com/Orshitha16/Leetcode/tree/master/0742-to-lower-case) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Orshitha16/Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Orshitha16/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Orshitha16/Leetcode/tree/master/0342-power-of-four) |
+| [0394-decode-string](https://github.com/Orshitha16/Leetcode/tree/master/0394-decode-string) |
 | [1013-fibonacci-number](https://github.com/Orshitha16/Leetcode/tree/master/1013-fibonacci-number) |
 ## Dynamic Programming
 |  |
@@ -253,4 +255,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3790-fruits-into-baskets-ii](https://github.com/Orshitha16/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
+## Stack
+|  |
+| ------- |
+| [0394-decode-string](https://github.com/Orshitha16/Leetcode/tree/master/0394-decode-string) |
 <!---LeetCode Topics End-->
