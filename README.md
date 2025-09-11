@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Orshitha16/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Orshitha16/Leetcode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/Orshitha16/Leetcode/tree/master/2283-sort-even-and-odd-indices-independently) |
+| [2887-sort-vowels-in-a-string](https://github.com/Orshitha16/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
 ## String
 |  |
 | ------- |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Orshitha16/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/Orshitha16/Leetcode/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/Orshitha16/Leetcode/tree/master/1823-determine-if-string-halves-are-alike) |
+| [2887-sort-vowels-in-a-string](https://github.com/Orshitha16/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/Orshitha16/Leetcode/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3636-check-balanced-string](https://github.com/Orshitha16/Leetcode/tree/master/3636-check-balanced-string) |
 ## Counting
