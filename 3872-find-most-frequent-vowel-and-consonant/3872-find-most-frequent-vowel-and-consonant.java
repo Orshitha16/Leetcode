@@ -37,14 +37,6 @@ class Solution {
     if(k>m2)
       m2=k;
 
-    for(Integer k: c1)
-    if(k==m1)
-    s1+=k;
-        
-    for(Integer k: c2)
-    if(k==m2)
-    s2+=k; 
-
     return m1+m2;  
     }
 }
