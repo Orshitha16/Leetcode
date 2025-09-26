@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3408-count-the-number-of-special-characters-i](https://github.com/Orshitha16/Leetcode/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Orshitha16/Leetcode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Orshitha16/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/Orshitha16/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Two Pointers
 |  |
 | ------- |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2887-sort-vowels-in-a-string](https://github.com/Orshitha16/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/Orshitha16/Leetcode/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3636-check-balanced-string](https://github.com/Orshitha16/Leetcode/tree/master/3636-check-balanced-string) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/Orshitha16/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Counting
 |  |
 | ------- |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Orshitha16/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Orshitha16/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Orshitha16/Leetcode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/Orshitha16/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Matrix
 |  |
 | ------- |
